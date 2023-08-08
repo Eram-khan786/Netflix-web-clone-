@@ -1,0 +1,29 @@
+.box{
+    height: 602.172px;
+    background-color: var(--black-color);
+    display:flex;
+    border-bottom: 8px solid var(--grey-color);
+
+}
+.left{
+    height: 602.172px;
+    width:50% ;
+    /* border:2px solid white  */
+}
+.image1{
+    margin-top: 5rem;
+    margin-left: 13rem;
+}
+.right{
+    height: 602.172px;
+    width:50% ;
+    /* border:2px solid white; */
+    color:var(--text-color);
+
+}
+
+.content{
+   margin-top: 13rem;
+   font-size: 1.5rem;
+   margin-left: 3rem;
+}

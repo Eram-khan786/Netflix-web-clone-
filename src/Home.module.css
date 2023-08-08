@@ -1,0 +1,93 @@
+/* Home.css */
+.main {
+  background-image: url(./image/background.jpg);
+  width: 100wh;
+  height: 89vh;
+  background-color: aqua;
+  border-bottom: 8px solid var(--grey-color);
+  background-color: black;
+}
+
+.netflix{
+height:2.5rem;
+margin-left: 10rem;
+margin-top: 1.3rem;
+
+}
+.icon{
+color:red;
+cursor: pointer;
+}
+.dropDown{
+height: 2.2rem;
+width:5.5rem;
+margin-left: 60rem;
+margin-bottom: 1rem;
+border: none;
+border-radius: 5px;
+}
+.home{
+height: 2.4rem;
+width: 5.5rem;
+margin-left: 10px;
+cursor: pointer;
+border:none;
+background-color:var(--primary-color);
+color: #fff;
+border-radius: 5px;
+}
+.home:hover{
+background-color: var(--primary-color-hover);
+}
+.heading{
+font-size: 3rem;
+font-weight:800;
+margin-bottom: 1.2rem;
+
+}
+.middleContent{
+align-items: center;
+color: #fff;
+text-align: center;
+margin-top: 12rem;
+}
+.para{
+ font-size: 28px;
+ margin-bottom: 1.2rem;
+}
+.ready{
+font-size: 23px;
+margin-bottom: 0.8rem;
+}
+.displayFlex{
+display: flex;
+margin-left: 30rem;
+}
+.email{
+height: 24px;
+width: 344.75px;
+border: 1px solid var(--text-color);
+padding: 24px 16px 8px 16px;
+color:var(--text-color);
+border-radius: 5px;
+background-color: transparent;
+/* margin-left: 45rem; */
+}
+.button{
+height: 56px;
+width: 201.25px;
+margin: 0 0 0 8px;
+padding: 12px 24px 12px 24px;min-width: auto;
+background-color: #ffffff;
+border: none;
+border-radius: 5px; 
+background-color: var(--primary-color);
+color: var(--text-color);
+font-size: 20px;
+font-weight: bold;
+cursor: pointer;
+}
+.button:hover{
+background-color: var(--primary-color-hover);
+}
+

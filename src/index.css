@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto, Ubuntu", "sans-serif";
+
+}
+:root{
+    --primary-color:rgb(254, 1, 1);
+    --primary-color-hover:#E50914;
+    --text-color:rgb(255, 255, 255);
+    --grey-color:#1f1e1e;
+    --black-color:#000000;
+    --grey-seconday-color:#3e3e3e;
+    --footer-color:rgb(181, 179, 179);
+
+}

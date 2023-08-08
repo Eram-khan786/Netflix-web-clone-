@@ -1,0 +1,50 @@
+.box{
+    height: 602.172px;
+    background-color: var(--black-color);
+    display: flex;
+    border-bottom: 8px solid var(--grey-color);
+    
+}
+
+/* <<<<<<<<<<<<<<<Left>>>>>>>>>>>>>>>> */
+
+.left{
+    width: 55%;
+    height: 602.172px;
+    /* border: 2px solid white; */
+    color: var(--text-color);
+
+}
+.margin{
+    margin-top: 13rem;
+}
+.left h1{
+    font-size: 2.9rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+    margin-left: 8rem;
+}
+.left p{
+    font-size: 1.5rem;
+}
+.right{
+    width: 45%;
+    height: 602.172px;
+    background-image: url('./image/tv.png');
+    background-repeat: no-repeat;
+    background-position: 2rem;
+
+}
+.para1{
+    margin-left: 7.9rem;
+}
+.para{
+    margin-left: 7.9rem;
+}
+.vedio1{
+    
+    width: 28.5rem;
+    margin-top: 10rem;
+    margin-left: 7.4rem;
+    border: 4px solid var(--grey-color);
+}
